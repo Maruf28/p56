@@ -1,0 +1,32 @@
+body
+{
+    text-align:center;
+    background-color: cornsilk;
+    color: coral;
+    border-style: double;
+   
+}
+div
+{
+   
+}
+.image-section,.image-section2
+{
+    display:flex;
+    margin: 5px;
+    justify-content: center;
+
+}
+.section-style
+{
+  
+    background-color: crimson
+}
+img
+{
+    height:350px;
+    width: 350px;
+    padding: 5px;
+    margin: 10px;
+    
+}
